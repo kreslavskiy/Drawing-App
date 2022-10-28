@@ -5,7 +5,7 @@
 1. Clone this repository
 
 ```bash
-git clone https://github.com/MrPaschenko/Paint
+git clone https://github.com/kreslavskiy/Drawing-App
 ```
 
 2. Open Drawing_App.xcodeproj in Xcode
